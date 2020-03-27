@@ -8,4 +8,7 @@ git
 
 git init
 git status
-git add [имя файла]
+git add [имя файла] - Добавить в индекс (отслеживать)
+git commit
+
+git commit -m "Описание коммита"

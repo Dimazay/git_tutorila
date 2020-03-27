@@ -19,3 +19,5 @@ git add [имя файла] - Добавить в индекс (отслежив
 git commit
 
 git commit -m "Описание коммита"
+
+git pull origin master

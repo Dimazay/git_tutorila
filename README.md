@@ -21,3 +21,6 @@ git commit
 git commit -m "Описание коммита"
 
 git pull origin master
+
+git clone
+

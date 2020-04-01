@@ -24,3 +24,6 @@ git pull origin master
 
 git clone
 
+console.log (math.random()* 10 ) рандом чила 
+
+math.floor округлить
